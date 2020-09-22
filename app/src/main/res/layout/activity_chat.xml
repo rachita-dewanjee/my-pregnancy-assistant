@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/pink"
+    android:padding="20dp"
+    tools:context=".chat">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="enter phone number"
+        android:textSize="22sp"
+        android:layout_marginTop="50dp"
+        android:inputType="phone"
+        android:id="@+id/txt_phone_number"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:hint="enter messege"
+        android:textSize="22sp"
+        android:gravity="top"
+        android:layout_marginTop="100dp"
+        android:id="@+id/txt_messege"
+        />
+    <Button
+        android:layout_marginTop="400dp"
+        android:id="@+id/messegebutton"
+        android:shadowColor="#978289"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:background="@drawable/rounded_button"
+        android:text="Send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btn_send"
+        />
+
+
+</RelativeLayout>
