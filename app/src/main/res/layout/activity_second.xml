@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:background="@color/pink"
+    tools:context=".secondActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TIPS"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:textColor="#0A0A0A"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_gravity="center"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:id="@+id/foodId"
+        android:textSize="20dp"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:background="@drawable/rounded_button"
+        android:text="FOOD"
+
+
+        />
+    <Button
+
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:id="@+id/lifestyle"
+        android:textSize="20dp"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:background="@drawable/rounded_button"
+        android:text="LIFE STYLE"
+
+
+        />
+    <Button
+
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:id="@+id/healthissues"
+        android:textSize="20dp"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:background="@drawable/rounded_button"
+        android:text="HEALTH ISSUES"
+
+
+        />
+    <Button
+
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:id="@+id/babysgrowth"
+        android:textSize="20dp"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:background="@drawable/rounded_button"
+        android:text="BABY'S GROWTH"
+
+
+        />
+
+
+
+
+
+
+</LinearLayout>

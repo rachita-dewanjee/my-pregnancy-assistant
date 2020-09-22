@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346498038964",
+    "firebase_url": "https://momchildcare-367c4.firebaseio.com",
+    "project_id": "momchildcare-367c4",
+    "storage_bucket": "momchildcare-367c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346498038964:android:17cc1ace99861e5645ebe1",
+        "android_client_info": {
+          "package_name": "com.example.momchildcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346498038964-5ms8f4o2331olilk9sdagnjtabhuo3i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.momchildcare",
+            "certificate_hash": "7aedbcd5eb59e94664e42888b285b26c60685520"
+          }
+        },
+        {
+          "client_id": "346498038964-vq2u3mrtddss9h55n9jnm2qh862u5lr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBatojmcOPHtdJy41-vwOusvZJYu-LkURo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346498038964-vq2u3mrtddss9h55n9jnm2qh862u5lr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

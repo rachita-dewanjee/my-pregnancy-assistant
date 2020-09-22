@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/pink"
+    tools:context=".tipshowactivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DO'S"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:textColor="#8B0D39"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:id="@+id/txt1"
+        android:textColor="#0F0E0E"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DON'T'S"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:textColor="#7C072F"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:id="@+id/txt2"
+        android:textColor="#111111"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+
+        />
+
+
+
+
+
+
+</LinearLayout>

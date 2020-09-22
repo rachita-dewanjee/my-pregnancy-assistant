@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink"
+    android:orientation="vertical"
+    tools:context=".Calculate">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+
+        android:fontFamily="@font/abril_fatface"
+        android:paddingLeft="10dp"
+        android:text="Calculate your BMI"
+        android:textColor="@color/colorAccent"
+        android:textSize="35sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="Your weight in kg: "
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/weight"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginHorizontal="2dp"
+            android:background="@drawable/blank_button"
+            android:inputType="numberDecimal">
+
+        </EditText>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="Your height in cm: "
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/height"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginHorizontal="2dp"
+            android:background="@drawable/blank_button"
+            android:inputType="numberDecimal">
+
+        </EditText>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_result"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_button_2"
+        android:text="@string/button_result"
+        android:textSize="22sp"
+        android:textStyle="bold">
+
+    </Button>
+
+
+
+    <TextView
+        android:id="@+id/txtenter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="100dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:hint="your detail"
+
+        >
+
+    </TextView>
+    <TextView
+        android:id="@+id/txtres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="100dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:hint="BMI= ?"
+
+        >
+
+    </TextView>
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_button_2"
+        android:text="@string/reset"
+        android:textSize="22sp"
+        android:textStyle="bold">
+
+    </Button>
+    <Button
+        android:id="@+id/recommended"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_button_2"
+        android:text="@string/recommended"
+        android:textSize="22sp"
+        android:textStyle="bold">
+
+    </Button>
+
+
+
+
+</LinearLayout>

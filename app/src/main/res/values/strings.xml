@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">momchildcare</string>
+    <string name="Large_text">1.Your first step would be to find a good doctor and a birthing centre during the early stages of your pregnancy so that you get the required prenatal care. Ensure that you choose a qualified, easily approachable doctor who can provide you with adequate guidance. It is advisable to plan the required ultrasound scans and tests in advance, so that you are aware of them and are well-prepared.
+There are various pregnancy tests and scans, which are used for screening certain conditions and determine the health of the foetus and catch irregularities, well in advance.
+\n \n 2. Eat Wholesome and Nutritious Food
+Your body requires energy. Eating healthy and nutritious food is vital for the baby and to ensure optimal mother care during pregnancy. Eating whole grains, fresh vegetables and fruits, eggs, organic meats and dairy products ensure that you are getting the adequate nutrients. These foods contain minerals, vitamins, essential fatty acids, amino acids and other nutrients. Although you need food to keep you moving, you also need to watch what you eat. Avoid junk food.
+\n \n 3. Drink Plenty of Water
+Keeping yourself hydrated helps in maintaining the amniotic fluid levels. Ensure that you drink at least 10 full glasses of water every day. Less water can cause morning sickness, tiredness, cramps and also contractions during the second and third trimesters. Carry a water bottle and drink from a glass, stainless steel or BPA-free container so that oestrogen mimicking toxins are not transferred to your baby.
+\n \n 4. Take Prenatal Supplements
+To ensure that you and the baby are getting all the required nutrients in a sustainable way, you can take prenatal supplements. Prenatal multivitamins must be taken as supplements and not substituted for natural food. Consult your doctor before taking these multivitamins.  Prenatal supplements contain folic acid and iron. Folic acid is a vital component that reduces the risk of the baby developing birth defects. Therefore, it is very important to take these supplements on time.
+\n \n 5. Exercise Regularly
+Your body is experiencing many changes. One of the most prominent changes is your shape and weight. Maintaining an active lifestyle with regular exercise will help you stay healthy and flexible. Exercise helps in stress management and goes a long way in helping you curb the demands of labour and motherhood. You can take up any form of physical activity after consulting your doctor. Some activities include walking, swimming and yoga. During pregnancy, the volume of the blood increases, thereby increasing the strain on your heart. A 45-minute workout schedule will boost circulation and strengthen your heart, and your baby will receive oxygen-rich blood for healthy development.
+ \n \n 6. Get Some Rest
+Adequate sleep and relaxation are required during pregnancy. Ensure that you sleep well and rest your feet as much as possible. Yoga and deep breathing can help you relax and calm down.
+\n \n 7. Avoid Alcohol, Drugs and Smoking
+Avoid alcohol as it reaches your baby through the blood. It also increases the chances of giving birth to a baby with Fetal Alcohol Syndrome (FAS), which affects the baby’s mental growth. Drugs and smoking are also equally dangerous as they affect the baby’s growth and health.
+\n \n  8. Reduce Caffeine and Recharge With Fruits
+Recharging yourself with fruits is more beneficial than caffeine. Research proves that caffeine increases the chances of miscarriage. Pregnant women are low on iron, and caffeine makes it difficult for your body to absorb iron. So, it is advisable to avoid caffeine.
+\n \n 9. Eliminate Environmental Dangers
+If you are exposed to chemicals, pesticides, hazardous elements, radioactive elements, lead and mercury at your work place or home regularly, you must contact your doctor and seek advice as these are dangerous to you and your baby.
+\n \n 10. See Your Dentist
+Hormonal changes during pregnancy lead to weaker gums. It is advisable to visit your dentist and take precautions to avoid gum diseases. An increase in oestrogen and progesterone levels can cause bleeding and tender gums. So, oral care is very important during pregnancy.
+\n \n 11. Watch Your Emotional Health
+Due to hormonal shifts during pregnancy, you might experience mood swings and emotional ups and downs. If you think you are depressed and it is affecting you, ensure that you get help and bounce back to normalcy.
+\n \n 12. Strengthening Pelvic Floor Muscles
+Strengthening the pelvic floor muscles helps in easy delivery. It supports your uterus, bowels and bladder. Prenatal workouts under guidance help strengthen the pelvic floor muscles.
+\n \n 13. Track Your Weight Gain
+A steady rise in your weight indicates the growth of the baby. So, tracking your weight is important to ensure that you are on the right track.
+\n \n 14. Wear Appropriate Clothing
+Ensure that you get yourself comfortable clothing. As your weight and shape will be changing rapidly, fitting yourself in tight clothing can suffocate you and the baby.
+\n \n 15. Wear Appropriate Footwear
+As your pregnancy progresses, your weight gain hampers the centre of gravity and creates a painful pressure on your feet. So, it is advisable to shop for footwear that is easy on your feet.
+\n \n 16. Take Care of Your Skin
+During pregnancy, your skin becomes sensitive to sunlight. You are prone to sunburns and dark spots. Apply sunscreen with SPF 30 or higher.
+\n \n 17. Pamper Yourself
+Although you need to watch what you eat, listen to your body and feed the cravings that pop up occasionally. Also, pamper yourself with a lunch out, manicure, a much-needed day out with friends, or by taking a quiet walk to help you de-stress. These activities help both you and the baby.
+\n \n 18. Educate Yourself
+Educate yourself about the different stages of pregnancy and be aware of the times when you need to seek medical help. Call your doctor if you have:
+Severe pain Cramps Vaginal bleeding Fluid leaking Dizziness Palpitations Swelling of joints A reduction in the movement of the foetus
+\n \n  19. Stress Management
+Pregnancy-related lifestyle changes and hormonal changes may be demanding. Life during pregnancy is a rollercoaster ride and can overwhelm you. So, working towards managing stress is important. You can manage stress by changing how you react to situations at home and work. Meditation, yoga, talking to friends and involving in craft activities can help you be stress-free.
+\n \n 20. Talk to Your Baby
+Talking to your baby, who is cuddled in your womb, can be a memorable and soul-soothing activity. It helps you build the bond and communicate with the little one. You can tell your baby how you feel, about your family, things that you eat and activities that you do. You can also sing and read to your baby.
+    </string>
+
+
+    <string name="text_name">Pregnancy Assistant</string>
+    <string name="button1">Calculate Bmi</string>
+    <string name="button2">Tips for mother</string>
+    <string name="button3">Useful video</string>
+    <string name="button4">Reminder</string>
+    <string name="button5">Contact With doctor</string>
+    <string name="button6">Share your experience</string>
+    <string name="reset">Reset</string>
+    <string name="recommended">Recomended</string>
+
+    <string name="button_result">Calculate</string>
+
+</resources>
